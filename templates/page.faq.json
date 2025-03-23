@@ -1,0 +1,186 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_AfjYVf": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_GDbzWQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>FAQ</strong>",
+            "heading_size": "h0"
+          }
+        },
+        "text_yTjDew": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GDbzWQ",
+        "text_yTjDew"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/faq.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "scheme-4",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "collapsible_content_jqaA4f": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_REce8e": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long does shipping take?",
+            "icon": "none",
+            "row_content": "<p>Shipping costs will vary depending on the shipping destination and the number of items that you purchase. The correct amount of shipping fee will show up at the checkout page.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_FUDiDA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long will it take to ship my order?",
+            "icon": "none",
+            "row_content": "<p>Shipping costs will vary depending on the shipping destination and the number of items that you purchase. The correct amount of shipping fee will show up at the checkout page.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_3iQP6D": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are teh sizing specs of my order?",
+            "icon": "none",
+            "row_content": "<p>Shipping costs will vary depending on the shipping destination and the number of items that you purchase. The correct amount of shipping fee will show up at the checkout page.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_j9Kjta": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I'm having issues placing an order.",
+            "icon": "none",
+            "row_content": "<p>Shipping costs will vary depending on the shipping destination and the number of items that you purchase. The correct amount of shipping fee will show up at the checkout page.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_rr4pAG": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I'd like to return or replace my order.",
+            "icon": "none",
+            "row_content": "<p>Shipping costs will vary depending on the shipping destination and the number of items that you purchase. The correct amount of shipping fee will show up at the checkout page.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_dRpyPe": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I'd like to cancel my order",
+            "icon": "none",
+            "row_content": "<p>Shipping costs will vary depending on the shipping destination and the number of items that you purchase. The correct amount of shipping fee will show up at the checkout page.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_REce8e",
+        "collapsible_row_FUDiDA",
+        "collapsible_row_3iQP6D",
+        "collapsible_row_j9Kjta",
+        "collapsible_row_rr4pAG",
+        "collapsible_row_dRpyPe"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Find your answers here",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "container_color_scheme": "",
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_fNxyPa": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PGCQY4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Couldn't find your answers",
+            "heading_size": "h2"
+          }
+        },
+        "text_VbTNwd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We're here to help. If you couldn't find the information you were looking for , please reach out to us directly. Our team is eagar to assist you.</p>"
+          }
+        },
+        "button_XT8Di7": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact us",
+            "button_link": "shopify://pages/contact",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_PGCQY4",
+        "text_VbTNwd",
+        "button_XT8Di7"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_AfjYVf",
+    "collapsible_content_jqaA4f",
+    "rich_text_fNxyPa"
+  ]
+}

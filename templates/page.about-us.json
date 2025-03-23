@@ -1,0 +1,185 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_AfjYVf": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_GDbzWQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "About us",
+            "heading_size": "h0"
+          }
+        },
+        "text_yTjDew": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GDbzWQ",
+        "text_yTjDew"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/about_banner.webp",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "scheme-4",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "rich_text_TbHj6q": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_WUBjXG": {
+          "type": "heading",
+          "settings": {
+            "heading": "A better way of living",
+            "heading_size": "h1"
+          }
+        },
+        "text_Y7WQan": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We believe in considering the impact of the choices we make every day and view those choices as an opportunity to better ourselves. Our purpose is to Inspire a Better way of Living by creating conscious products that last through time. By marrying innovation with eco-friendly processes, we strive to help shape a cleaner, healthier, and more mindful world where human progress is in harmony with the planet's.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_WUBjXG",
+        "text_Y7WQan"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multirow_VGeLqk": {
+      "type": "multirow",
+      "blocks": {
+        "row_JGBcjH": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/1.webp",
+            "caption": "",
+            "heading": "What we make",
+            "text": "<p>Our products are designed with a desire to create seamlessly transitions through every part of your day. Whether you are outdoor adventuring, on a road trip, or simply kicking back at home, our technical yet simple designs have you covered.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_WEg3K8": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/2.jpg",
+            "caption": "",
+            "heading": "Why we do it",
+            "text": "<p>To put it simply, because we want to. Revelry was started with the simple ambition of creating products that we ourselves actually want to use. Our first designs were to improve upon the limited landscape of smell-proof luggage when we entered the market.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_mpaeKj": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/3.jpg",
+            "caption": "",
+            "heading": "Technology",
+            "text": "<p>Each bag has a nylon or cotton canvas exterior that has a heavy duty rubber backing. The rubber backing, that is invisible from the outside, works as our first line of defense by creating odor containment.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_JGBcjH",
+        "row_WEg3K8",
+        "row_mpaeKj"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "image_layout": "alternate-left",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "newsletter_4BcccR": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_a4RFzp": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our newsletter",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_gzxz99": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.</p>"
+          }
+        },
+        "email_form_zyzTYx": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_a4RFzp",
+        "paragraph_gzxz99",
+        "email_form_zyzTYx"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_AfjYVf",
+    "rich_text_TbHj6q",
+    "multirow_VGeLqk",
+    "newsletter_4BcccR"
+  ]
+}
