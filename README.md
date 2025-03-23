@@ -49,3 +49,6 @@ For any inquiries or support, reach out via [ermiyasasrat580@gmail.com/contact i
 ---
 
 Happy Shopping! 👜
+![screencapture-metic-bag-myshopify-2025-03-20-21_10_34](https://github.com/user-attachments/assets/b77b0a93-f6f5-4e99-962e-ec3a560d143a)
+
+![screencapture-metic-bag-myshopify-pages-about-us-2025-03-20-21_11_24](https://github.com/user-attachments/assets/efa11513-d307-410e-8d01-c16ed65c57df)
